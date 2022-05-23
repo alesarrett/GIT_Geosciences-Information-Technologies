@@ -1,5 +1,7 @@
 # Sezione GIT - Geosciences and Information Technologies
 
+Informazioni su modalità e scadenze per presentare un abstract nelle seguenti sessioni sono presenti nel sito ufficiale del GIT: https://gitonline.org/2022/05/19/xvi-convegno-nazionale-git-e-si-2022-a-fondi-lt-call-for-abstract/
+
 * Sessione 1: [Utilizzo dei dati territoriali aperti (Open data) nelle analisi ambientali](#sessione-1-utilizzo-dei-dati-territoriali-aperti-open-data-nelle-analisi-ambientali)
 * Sessione 2: [Dinamica e monitoraggio dei processi geo-idrologici](#sessione-2-dinamica-e-monitoraggio-dei-processi-geo-idrologici)
 * Sessione 3: [Integrazione e fusione di tecnologie di Remote Sensing, Multiscala e Multipiattaforma (RS-MM)](#sessione-3-integrazione-e-fusione-di-tecnologie-di-remote-sensing-multiscala-e-multipiattaforma-rs-mm)
