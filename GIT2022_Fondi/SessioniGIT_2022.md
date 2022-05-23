@@ -1,5 +1,22 @@
 # Sezione GIT - Geosciences and Information Technologies
 
+* Sessione 1: [Utilizzo dei dati territoriali aperti (Open data) nelle analisi ambientali](#sessione-1-utilizzo-dei-dati-territoriali-aperti-open-data-nelle-analisi-ambientali)
+* Sessione 2: Dinamica e monitoraggio dei processi geo-idrologici
+* Sessione 3: Integrazione e fusione di tecnologie di Remote Sensing, Multiscala e Multipiattaforma (RS-MM)
+* Sessione 4: Nuove misure digitali volanti
+* Sessione 5: Nuove metodologie per la caratterizzazione, il monitoraggio e l’analisi dei fenomeni franosi
+* Sessione 6: Modellazione e analisi dell’impatto degli eventi ciclonici
+* Sessione 7: Sistemi informativi per il processamento/organizzazione/condivisione di dati geoambientali
+* Sessione 8: Tecnologie e strategie per la conoscenza del territorio e la divulgazione delle geoscienze
+* Sessione 9: Uno sguardo ai fiumi: analisi dei processi e delle dinamiche fluviali tramite remote sensing
+* Sessione 10: Problematiche geologico-applicative e ambientali: multidisciplinarietà, nuove tecnologie e geocomputing
+* Sessione 11: Nuovi strumenti per il monitoraggio e la comprensione del cambiamento climatico
+* Sessione 12: Gestione e mitigazione del rischio sismico su area vasta e sulle infrastrutture: metodologie innovative e lessons learned
+* Workshop 13: Il GIT dialoga con il territorio e i suoi abitanti: “dal martello all'app”!
+* Workshop 14: GITimpresa
+
+
+
 ## Sessione 1: Utilizzo dei dati territoriali aperti (Open data) nelle analisi ambientali
 
 Diversi sono gli ambiti di applicazione del fenomeno Open Data che è diventato sempre più pervasivo dell’intera comunità scientifica e professionale, nonché normato a livello nazionale e sovranazionale, soprattutto in seguito al sempre più diffuso utilizzo di software GIS e delle tecniche di telerilevamento.
