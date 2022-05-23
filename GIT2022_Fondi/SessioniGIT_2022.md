@@ -1,19 +1,19 @@
 # Sezione GIT - Geosciences and Information Technologies
 
 * Sessione 1: [Utilizzo dei dati territoriali aperti (Open data) nelle analisi ambientali](#sessione-1-utilizzo-dei-dati-territoriali-aperti-open-data-nelle-analisi-ambientali)
-* Sessione 2: Dinamica e monitoraggio dei processi geo-idrologici
-* Sessione 3: Integrazione e fusione di tecnologie di Remote Sensing, Multiscala e Multipiattaforma (RS-MM)
-* Sessione 4: Nuove misure digitali volanti
-* Sessione 5: Nuove metodologie per la caratterizzazione, il monitoraggio e l’analisi dei fenomeni franosi
-* Sessione 6: Modellazione e analisi dell’impatto degli eventi ciclonici
-* Sessione 7: Sistemi informativi per il processamento/organizzazione/condivisione di dati geoambientali
-* Sessione 8: Tecnologie e strategie per la conoscenza del territorio e la divulgazione delle geoscienze
-* Sessione 9: Uno sguardo ai fiumi: analisi dei processi e delle dinamiche fluviali tramite remote sensing
-* Sessione 10: Problematiche geologico-applicative e ambientali: multidisciplinarietà, nuove tecnologie e geocomputing
-* Sessione 11: Nuovi strumenti per il monitoraggio e la comprensione del cambiamento climatico
-* Sessione 12: Gestione e mitigazione del rischio sismico su area vasta e sulle infrastrutture: metodologie innovative e lessons learned
-* Workshop 13: Il GIT dialoga con il territorio e i suoi abitanti: “dal martello all'app”!
-* Workshop 14: GITimpresa
+* Sessione 2: [Dinamica e monitoraggio dei processi geo-idrologici](#sessione-2-dinamica-e-monitoraggio-dei-processi-geo-idrologici)
+* Sessione 3: [Integrazione e fusione di tecnologie di Remote Sensing, Multiscala e Multipiattaforma (RS-MM)](#sessione-3-integrazione-e-fusione-di-tecnologie-di-remote-sensing-multiscala-e-multipiattaforma-rs-mm)
+* Sessione 4: [Nuove misure digitali volanti](#sessione-4-nuove-misure-digitali-volanti)
+* Sessione 5: [Nuove metodologie per la caratterizzazione, il monitoraggio e l’analisi dei fenomeni franosi](#sessione-5-nuove-metodologie-per-la-caratterizzazione-il-monitoraggio-e-lanalisi-dei-fenomeni-franosi)
+* Sessione 6: [Modellazione e analisi dell’impatto degli eventi ciclonici](#sessione-6-modellazione-e-analisi-dellimpatto-degli-eventi-ciclonici)
+* Sessione 7: [Sistemi informativi per il processamento/organizzazione/condivisione di dati geoambientali](#sessione-7-sistemi-informativi-per-il-processamentoorganizzazionecondivisione-di-dati-geoambientali)
+* Sessione 8: [Tecnologie e strategie per la conoscenza del territorio e la divulgazione delle geoscienze](#sessione-8-tecnologie-e-strategie-per-la-conoscenza-del-territorio-e-la-divulgazione-delle-geoscienze)
+* Sessione 9: [Uno sguardo ai fiumi: analisi dei processi e delle dinamiche fluviali tramite remote sensing](#sessione-9-uno-sguardo-ai-fiumi-analisi-dei-processi-e-delle-dinamiche-fluviali-tramite-remote-sensing)
+* Sessione 10: [Problematiche geologico-applicative e ambientali: multidisciplinarietà, nuove tecnologie e geocomputing](#sessione-10-problematiche-geologico-applicative-e-ambientali-multidisciplinariet%C3%A0-nuove-tecnologie-e-geocomputing)
+* Sessione 11: [Nuovi strumenti per il monitoraggio e la comprensione del cambiamento climatico](#sessione-11-nuovi-strumenti-per-il-monitoraggio-e-la-comprensione-del-cambiamento-climatico)
+* Sessione 12: [Gestione e mitigazione del rischio sismico su area vasta e sulle infrastrutture: metodologie innovative e lessons learned](d#sessione-12-gestione-e-mitigazione-del-rischio-sismico-su-area-vasta-e-sulle-infrastrutture-metodologie-innovative-e-lessons-learned)
+* Workshop 13: [Il GIT dialoga con il territorio e i suoi abitanti: “dal martello all'app”!](#workshop-13-il-git-dialoga-con-il-territorio-e-i-suoi-abitanti-dal-martello-allapp)
+* Workshop 14: [GITimpresa](#workshop-14-gitimpresa)
 
 
 
