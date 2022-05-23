@@ -7,5 +7,5 @@ Alcune informazioni sono contenute solamente all'interno di file PDF; in questo 
 
 Informazioni attualmente presenti:
 * XVI Convegno Nazionale GIT a Fondi (5-7 settembre 2022): maggiori informazioni [qui](https://gitonline.org/2022/05/19/xvi-convegno-nazionale-git-e-si-2022-a-fondi-lt-call-for-abstract/)
-  * sessioni della sezione GIT
-  * sessioni della sezione SI
+  * sessioni della sezione GIT: [GIT2022_Fondi/SessioniGIT_2022.md](GIT2022_Fondi/SessioniGIT_2022.md)
+  * sessioni della sezione SI: [GIT2022_Fondi/SessioniSI_2022.md](GIT2022_Fondi/SessioniSI_2022.md)
